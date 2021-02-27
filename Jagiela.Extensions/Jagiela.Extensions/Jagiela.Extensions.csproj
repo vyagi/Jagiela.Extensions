@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <PackageId>Jagiela.Extensions</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Marcin Jagieła</Authors>
+    <Company>GitHub</Company>
+    <PackageDescription>This package adds several useful extensions for manipulating strings, collections, etc. See documentation for more information</PackageDescription>
+    <RepositoryUrl>https://github.com/vyagi/Jagiela.Extensions</RepositoryUrl>
+  </PropertyGroup>
+</Project>
